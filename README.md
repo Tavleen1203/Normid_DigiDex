@@ -1,5 +1,7 @@
-# DigiDex 
-# Building an ML Model for digit recognition 🔢
+# 👩‍💻 DigiDex 
+# Determining Digits Smartly
+
+# 🔢 Building an ML Model for digit recognition 
 
 🤖 In this project, we have created an ML model that uses CNN classification algorithm to read digits and identify them. We have worked upon a standard MNIST dataset of thousands of digits. By using this dataset, we have trained our model.
 
